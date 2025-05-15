@@ -133,6 +133,10 @@ h1, h2, h3 {
   border: none;
   cursor: pointer;
 }
+.container h1{
+    font-size: 2.5em;
+    margin-bottom: 0.5em;
+}
 
 
 .grid {

@@ -1,7 +1,7 @@
-// src/components/HeroSection.js
+
 import React from 'react';
 
-const HeroSection = () => {
+const MainSection = () => {
   return (
     <section className="container">
       <h1>Dramatically Engage</h1>
@@ -11,4 +11,4 @@ const HeroSection = () => {
   );
 };
 
-export default HeroSection;
+export default MainSection;

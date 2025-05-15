@@ -3,7 +3,7 @@ import React from 'react';
 import './App.css';
 
 import Header from './components/Header';
-import HeroSection from './components/HeroSection';
+import HeroSection from './components/MainSection';
 import FeatureGrid from './components/FeatureGrid';
 import BottomGrid from './components/BottomGrid';
 import Footer from './components/Footer';
@@ -12,7 +12,7 @@ function App() {
   return (
     <>
       <Header />
-      <HeroSection />
+      <MainSection />
       <FeatureGrid />
       <BottomGrid />
       <Footer />
