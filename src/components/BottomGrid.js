@@ -1,5 +1,4 @@
-// src/components/BottomGrid.js
-import React from 'react';
+
 
 const BottomGrid = () => {
   const cards = [
